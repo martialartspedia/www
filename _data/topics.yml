@@ -1,49 +1,154 @@
 - slug: kata
   name: Kata
   category: Training methodology
-  summary: >
-    Kata are formalized sequences used to preserve techniques, timing, movement principles, and tactical concepts within many martial arts.
+  summary: Kata are formalized sequences used to preserve techniques, principles, rhythm, posture, and combative ideas within many traditional martial arts.
   functions:
-    - Technical preservation
-    - Solo training
-    - Rhythm and coordination
-    - Historical transmission
+  - Technical preservation
+  - Solo practice
+  - Body mechanics
+  - Historical transmission
+  - Testing and grading
   associated_arts:
-    - Karate
-    - Taekwondo
-    - Aikido
-  historical_context: >
-    Kata became especially important in systems where structured transmission and pedagogy were central to preserving techniques across generations.
-
+  - Karate
+  - Judo
+  - Aikido
+  - Taekwondo
+  - Kendo
+  historical_context: Kata became important where structured transmission was needed across generations and where dangerous techniques could not always be practiced freely.
+  technical_notes: Kata may encode strikes, throws, locks, footwork, breathing, timing, and tactical sequences. Interpretation varies by school.
+  page_content:
+  - - Training Role
+    - Kata can function as memory system, movement drill, teaching curriculum, and cultural preservation method. It is not always meant to resemble a literal fight from start to finish.
+  - - Factbook Assessment
+    - Kata is best understood as a transmission technology. Its value depends on whether a school connects solo movement to partner application, historical interpretation, and physical principles.
 - slug: kuzushi
   name: Kuzushi
   category: Grappling principle
-  summary: >
-    Kuzushi refers to breaking an opponent's balance before executing a throw or takedown.
+  summary: Kuzushi refers to breaking or disrupting an opponent’s balance before executing a throw, takedown, or control.
   functions:
-    - Throw preparation
-    - Balance manipulation
-    - Timing control
+  - Throw preparation
+  - Balance manipulation
+  - Timing control
+  - Energy efficiency
   associated_arts:
-    - Judo
-    - Aikido
-    - Jujutsu
-  historical_context: >
-    Kuzushi became foundational within Japanese grappling systems because leverage and timing often proved more effective than strength alone.
-
+  - Judo
+  - Aikido
+  - Jujutsu
+  - Sambo
+  historical_context: Kuzushi became a core analytical idea in Judo because Kano’s system emphasized leverage, timing, and efficient force application.
+  technical_notes: Kuzushi may be produced through pulling, pushing, rotation, footwork, gripping, feints, posture changes, or reaction to an opponent’s movement.
+  page_content:
+  - - Training Role
+    - Students often learn kuzushi through throwing drills, grip exchanges, movement patterns, and live resistance. Without kuzushi, throws often become strength contests.
+  - - Factbook Assessment
+    - Kuzushi is one of the most important concepts for understanding why grappling arts work. It shifts attention from isolated techniques to timing, structure, and relationship between bodies.
+- slug: randori
+  name: Randori
+  category: Live training method
+  summary: Randori is free practice, especially in Judo, where practitioners test techniques against movement and resistance under controlled conditions.
+  functions:
+  - Resistance testing
+  - Timing development
+  - Technical adaptation
+  - Conditioning
+  - Decision-making
+  associated_arts:
+  - Judo
+  - Aikido
+  historical_context: Randori was central to Judo’s educational model because it allowed repeated live testing while reducing the danger associated with older combat methods.
+  technical_notes: Randori differs from formal competition because its purpose may be learning rather than winning. Intensity varies by school and context.
+  page_content:
+  - - Training Role
+    - Randori develops sensitivity to motion, grip, pressure, balance, and opportunity. It also exposes technical weaknesses that static drilling may hide.
+  - - Factbook Assessment
+    - Randori is one of the clearest examples of how modern martial arts balance safety and realism.
 - slug: belt-ranking-systems
   name: Belt Ranking Systems
   category: Organizational structure
-  summary: >
-    Belt ranking systems are used by many martial arts to structure progression, teaching, and evaluation.
+  summary: Belt ranking systems are used by many martial arts to structure progression, organize instruction, and recognize technical development.
   functions:
-    - Student progression
-    - Instructional hierarchy
-    - Curriculum organization
+  - Student progression
+  - Instructional hierarchy
+  - Curriculum organization
+  - Motivation
+  - Competition classification
   associated_arts:
-    - Judo
-    - Karate
-    - Taekwondo
-    - Brazilian Jiu-Jitsu
-  historical_context: >
-    Colored ranking systems became widely associated with Judo and later spread to many other martial arts worldwide.
+  - Judo
+  - Karate
+  - Taekwondo
+  - Brazilian Jiu-Jitsu
+  - Aikido
+  historical_context: Modern belt ranking is closely associated with Judo and later spread widely across martial arts. Different arts use different meanings, standards, and timelines.
+  technical_notes: Rank does not measure the same thing everywhere. Some systems emphasize technical knowledge, others competition ability, teaching capacity, time-in-grade, or institutional affiliation.
+  page_content:
+  - - Training Role
+    - Ranks help schools divide curriculum into manageable stages. They can also create social expectations, teaching responsibilities, and organizational identity.
+  - - Factbook Assessment
+    - Belt rank is useful as an internal educational signal but unreliable as a universal comparison across styles, schools, or countries.
+- slug: clinch-fighting
+  name: Clinch Fighting
+  category: Combat range
+  summary: Clinch fighting is close-range control where fighters use grips, frames, balance, knees, elbows, throws, trips, and positional pressure.
+  functions:
+  - Close-range control
+  - Striking setup
+  - Takedown setup
+  - Stalling prevention
+  - Off-balancing
+  associated_arts:
+  - Muay Thai
+  - Wrestling
+  - Judo
+  - Sambo
+  - Mixed Martial Arts
+  historical_context: Clinch ranges developed differently across rulesets. Muay Thai preserved extensive clinch striking, while wrestling and Judo developed sophisticated gripping and takedown entries.
+  technical_notes: Clinch work depends heavily on head position, underhooks, overhooks, collar ties, frames, grips, hip position, and foot placement.
+  page_content:
+  - - Training Role
+    - Clinch practice builds sensitivity to pressure, posture, and small positional advantages. It bridges striking and grappling ranges.
+  - - Factbook Assessment
+    - Clinch fighting is often underappreciated by beginners because it looks static, but it is one of the most technically dense ranges in combat sports.
+- slug: mixed-martial-arts
+  name: Mixed Martial Arts
+  category: Modern combat sport
+  summary: Mixed Martial Arts combines striking, clinch fighting, takedowns, ground control, and submissions under unified competition rules.
+  functions:
+  - Cross-range integration
+  - Ruleset testing
+  - Combat sport competition
+  - Technical synthesis
+  associated_arts:
+  - Brazilian Jiu-Jitsu
+  - Wrestling
+  - Boxing
+  - Muay Thai
+  - Judo
+  - Kickboxing
+  historical_context: Modern MMA grew from vale tudo, shootfighting, pankration revival efforts, and early style-versus-style events. It later evolved into a specialized sport with its own tactics.
+  technical_notes: MMA is not simply a mixture of separate arts. Techniques change when strikes, takedowns, cage work, gloves, rounds, and judging criteria interact.
+  page_content:
+  - - Training Role
+    - MMA training requires integration. A boxing stance, wrestling shot, or BJJ guard may need modification because each range affects the others.
+  - - Factbook Assessment
+    - MMA has become a major testing ground for martial arts assumptions because it rewards techniques that survive under broad, resistant, multi-range pressure.
+- slug: ukemi
+  name: Ukemi
+  category: Safety and falling method
+  summary: Ukemi refers to receiving technique safely, especially through falling, rolling, and protecting the body during throws or takedowns.
+  functions:
+  - Injury reduction
+  - Training safety
+  - Throw practice
+  - Body awareness
+  associated_arts:
+  - Judo
+  - Aikido
+  - Jujutsu
+  - Sambo
+  historical_context: Ukemi became essential in arts that train repeated throwing. It enables live practice while reducing injury risk.
+  technical_notes: Ukemi includes back falls, side falls, forward rolls, breakfalls, and recovery movements.
+  page_content:
+  - - Training Role
+    - Good ukemi allows students to train harder and longer. It also teaches relaxation under pressure and spatial awareness.
+  - - Factbook Assessment
+    - Ukemi is infrastructure for grappling education. Without it, many throwing arts could not be practiced safely at scale.

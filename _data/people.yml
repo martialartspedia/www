@@ -1,70 +1,167 @@
-- slug: gichin-funakoshi
-  name: Gichin Funakoshi
-  lifespan: 1868–1957
-  nationality: Japanese
-  associated_art: Karate
-  role: Educator and martial arts instructor
-  known_for:
-    - Introducing karate to mainland Japan
-    - Foundational influence on Shotokan karate
-    - Karate pedagogy
-  biography: >
-    Gichin Funakoshi is widely regarded as one of the most influential figures in modern karate history.
-    He helped systematize Okinawan karate for educational institutions and university clubs in Japan.
-  historical_significance: >
-    Funakoshi's efforts transformed karate from a regional Okinawan practice into an internationally recognized martial art.
-  organizations:
-    - Shotokan karate organizations
-  publications:
-    - Karate-Do: My Way of Life
-  influence:
-    - University karate clubs
-    - Modern karate curriculum
-    - International karate expansion
-
 - slug: jigoro-kano
   name: Jigoro Kano
   lifespan: 1860–1938
   nationality: Japanese
   associated_art: Judo
+  region: Japan
   role: Founder of Judo
+  summary: Jigoro Kano founded Judo in 1882 and developed it as a system of physical education, moral training, and safe martial practice.
   known_for:
-    - Kodokan Judo
-    - Educational philosophy
-    - Modernization of jujutsu
-  biography: >
-    Jigoro Kano founded Judo in 1882 and integrated martial training with physical education and moral development.
-  historical_significance: >
-    Kano established one of the first globally organized martial arts systems and helped position Judo as an international sport.
+  - Kodokan Judo
+  - Maximum efficiency
+  - Mutual welfare and benefit
+  - Modern martial arts pedagogy
   organizations:
-    - Kodokan
-    - International Olympic movement
-  publications:
-    - Educational writings on Judo
-  influence:
-    - Olympic combat sports
-    - Modern martial arts pedagogy
-    - Grappling systems worldwide
-
+  - Kodokan
+  - International Olympic Committee
+  historical_significance: Kano transformed selected jujutsu methods into a modern educational system. His work shaped rank systems, safe practice methods, and international martial arts organization.
+  page_content:
+  - - Biographical Context
+    - Kano was an educator as well as a martial arts reformer. His central achievement was not simply founding a fighting style, but creating a repeatable institution that could teach physical, ethical, and social development.
+  - - Influence
+    - Judo influenced Brazilian Jiu-Jitsu, Sambo, police training, school athletics, Olympic combat sport, and the broader use of belt ranks in martial arts.
+- slug: gichin-funakoshi
+  name: Gichin Funakoshi
+  lifespan: 1868–1957
+  nationality: Japanese
+  associated_art: Karate
+  region: Okinawa and Japan
+  role: Key figure in popularizing karate in mainland Japan
+  summary: Gichin Funakoshi helped introduce Okinawan karate to mainland Japan and became associated with what later developed as Shotokan karate.
+  known_for:
+  - Shotokan karate
+  - Karate education
+  - Kata transmission
+  - 'Karate-Do: My Way of Life'
+  organizations:
+  - Japan Karate Association lineage organizations
+  - University karate clubs
+  historical_significance: Funakoshi helped move karate from Okinawan local practice into Japanese educational and institutional settings.
+  page_content:
+  - - Biographical Context
+    - Funakoshi was part of the generation that reframed karate for modern public instruction. His writing and teaching helped present karate as a discipline of character as well as combat.
+  - - Influence
+    - Shotokan became one of the most internationally recognizable karate traditions. Funakoshi’s emphasis on etiquette, kata, and moral development shaped karate’s global image.
+- slug: morihei-ueshiba
+  name: Morihei Ueshiba
+  lifespan: 1883–1969
+  nationality: Japanese
+  associated_art: Aikido
+  region: Japan
+  role: Founder of Aikido
+  summary: Morihei Ueshiba developed Aikido as a martial discipline emphasizing redirection, control, and a philosophical approach to conflict.
+  known_for:
+  - Aikido
+  - Budo philosophy
+  - Circular movement
+  - Defensive redirection
+  organizations:
+  - Aikikai Foundation
+  historical_significance: Ueshiba’s art transformed older jujutsu influences into a system strongly identified with harmony, restraint, and non-competitive training.
+  page_content:
+  - - Biographical Context
+    - Ueshiba trained in several martial traditions and was deeply shaped by spiritual and philosophical commitments. His technical system evolved across his life.
+  - - Influence
+    - Aikido spread globally after the Second World War through students, dojos, and international organizations. Its influence is especially strong in discussions of budo philosophy and non-competitive martial training.
 - slug: bruce-lee
   name: Bruce Lee
   lifespan: 1940–1973
   nationality: Chinese-American
   associated_art: Jeet Kune Do
-  role: Martial artist, actor, and philosopher
+  region: Hong Kong and United States
+  role: Martial artist, actor, and founder of Jeet Kune Do
+  summary: Bruce Lee became one of the most influential martial artists of the 20th century through film, teaching, writing, and his critique of rigid systems.
   known_for:
-    - Jeet Kune Do
-    - Martial arts cinema
-    - Cross-training philosophy
-  biography: >
-    Bruce Lee became one of the most recognizable martial artists in modern history through film, teaching, and martial arts philosophy.
-  historical_significance: >
-    Lee challenged rigid stylistic boundaries and promoted adaptability, realism, and efficiency in martial arts training.
+  - Jeet Kune Do
+  - Martial arts cinema
+  - Cross-training philosophy
+  - Practical adaptability
   organizations:
-    - Jun Fan Gung Fu Institute
-  publications:
-    - Tao of Jeet Kune Do
-  influence:
-    - Mixed martial arts concepts
-    - Martial arts media
-    - Cross-disciplinary combat training
+  - Jun Fan Gung Fu Institute
+  historical_significance: Lee helped popularize martial arts internationally and argued for adaptive, practical, and individualized training over strict stylistic loyalty.
+  page_content:
+  - - Biographical Context
+    - Lee’s importance is both technical and cultural. He influenced how martial arts were represented in global media and how practitioners thought about efficiency, adaptability, and training across styles.
+  - - Influence
+    - Lee’s ideas anticipated later cross-training trends in mixed martial arts, although Jeet Kune Do itself remains a distinct and debated martial philosophy.
+- slug: helio-gracie
+  name: Helio Gracie
+  lifespan: 1913–2009
+  nationality: Brazilian
+  associated_art: Brazilian Jiu-Jitsu
+  region: Brazil
+  role: Major figure in Brazilian Jiu-Jitsu development
+  summary: Helio Gracie helped shape Brazilian Jiu-Jitsu’s identity around leverage, ground fighting, challenge matches, and self-defense.
+  known_for:
+  - Brazilian Jiu-Jitsu
+  - Gracie family lineage
+  - Ground fighting
+  - Challenge matches
+  organizations:
+  - Gracie Jiu-Jitsu academies
+  historical_significance: Helio Gracie became one of the most visible representatives of BJJ’s early self-defense and challenge-match culture.
+  page_content:
+  - - Biographical Context
+    - Helio Gracie’s role is tied to the Gracie family’s promotion of jiu-jitsu in Brazil and internationally. The family’s challenge-match narrative became central to BJJ’s identity.
+  - - Influence
+    - The Gracie family’s visibility in early mixed martial arts helped bring Brazilian Jiu-Jitsu into global martial arts awareness.
+- slug: mitsuyo-maeda
+  name: Mitsuyo Maeda
+  lifespan: 1878–1941
+  nationality: Japanese
+  associated_art: Judo and jujutsu
+  region: Japan, Brazil, and international travels
+  role: Japanese martial artist who influenced Brazilian grappling traditions
+  summary: Mitsuyo Maeda was a Japanese judoka and professional fighter whose teaching in Brazil influenced the development of Brazilian Jiu-Jitsu.
+  known_for:
+  - Judo
+  - International challenge matches
+  - Influence on Brazilian Jiu-Jitsu
+  organizations:
+  - Kodokan Judo lineage
+  historical_significance: Maeda helped transmit Japanese grappling methods to Brazil, where they were adapted into what became Brazilian Jiu-Jitsu.
+  page_content:
+  - - Biographical Context
+    - Maeda traveled internationally and participated in professional fighting contexts. His life shows how martial arts spread through migration, demonstration, teaching, and public challenge events.
+  - - Influence
+    - His instruction to Carlos Gracie is frequently treated as a key bridge between Kodokan-related grappling and Brazilian Jiu-Jitsu.
+- slug: mas-oyama
+  name: Mas Oyama
+  lifespan: 1923–1994
+  nationality: Korean-Japanese
+  associated_art: Kyokushin Karate
+  region: Japan
+  role: Founder of Kyokushin Karate
+  summary: Mas Oyama founded Kyokushin Karate, a full-contact karate style known for hard conditioning, knockdown rules, and international organization.
+  known_for:
+  - Kyokushin Karate
+  - Full-contact karate
+  - Knockdown competition
+  organizations:
+  - International Karate Organization Kyokushinkaikan
+  historical_significance: Oyama’s approach contributed to the growth of full-contact karate and influenced later kickboxing and combat sport training.
+  page_content:
+  - - Biographical Context
+    - Oyama’s public image emphasized toughness, discipline, and full-contact testing. Kyokushin developed a strong international network of dojos and competitions.
+  - - Influence
+    - Kyokushin influenced knockdown karate, Japanese kickboxing, Dutch kickboxing, and many full-contact striking methods.
+- slug: choi-hong-hi
+  name: Choi Hong Hi
+  lifespan: 1918–2002
+  nationality: Korean
+  associated_art: Taekwondo
+  region: Korea and international
+  role: Major figure in Taekwondo formation and promotion
+  summary: Choi Hong Hi was a key figure in the formation and international promotion of Taekwondo, especially through the International Taekwon-Do Federation.
+  known_for:
+  - Taekwondo
+  - International Taekwon-Do Federation
+  - Patterns
+  organizations:
+  - International Taekwon-Do Federation
+  historical_significance: Choi contributed to Taekwondo’s naming, organization, technical literature, and international spread.
+  page_content:
+  - - Biographical Context
+    - Choi’s role in Taekwondo history is significant but also part of a broader and sometimes contested history involving multiple kwans, organizations, and national institutions.
+  - - Influence
+    - His work helped establish Taekwondo as a global martial art with formal patterns, terminology, and international schools.

@@ -1,60 +1,156 @@
 - slug: japan
   name: Japan
-  martial_overview: >
-    Japan is one of the most influential centers of modern martial arts development.
-    It produced globally recognized systems such as Judo, Aikido, Kendo, and several major karate traditions.
+  martial_overview: Japan is one of the most influential centers of modern martial arts development, producing and institutionalizing systems such as Judo, Aikido, Kendo, Jujutsu, and major karate traditions after karate’s transmission from Okinawa.
   historical_factors:
-    - Samurai military traditions
-    - Meiji-era modernization
-    - Educational institutionalization
-    - Olympic sport development
+  - Samurai military traditions
+  - Meiji-era modernization
+  - School and university adoption
+  - Police and military training
+  - Olympic sport development
   notable_arts:
-    - Judo
-    - Karate
-    - Aikido
-    - Kendo
-    - Jujutsu
+  - Judo
+  - Aikido
+  - Kendo
+  - Jujutsu
+  - Karate
   organizational_characteristics:
-    - Structured rank systems
-    - Dojo culture
-    - National federations
-    - International governing bodies
-  modern_impact: >
-    Japanese martial arts heavily influenced global martial arts education, sport organization, ranking systems, and training terminology.
-
+  - Dojo culture
+  - Dan and kyu ranks
+  - National federations
+  - Formal etiquette
+  - International governing bodies
+  modern_impact: Japanese martial arts strongly influenced global ranking systems, uniforms, etiquette, competition formats, and the idea of martial arts as character education.
+  page_content:
+  - - Regional Context
+    - Japan’s modern martial arts were shaped by the transition from feudal combat traditions to modern education, nationalism, sport, and international cultural exchange.
+  - - Factbook Assessment
+    - Japan’s impact is institutional as much as technical. The dojo, belt ranks, formal etiquette, and federation structures became templates for many martial arts worldwide.
+- slug: okinawa
+  name: Okinawa
+  martial_overview: Okinawa is central to karate history. Local fighting traditions developed through regional exchange, Chinese influence, and later transmission to mainland Japan.
+  historical_factors:
+  - Ryukyu Kingdom trade networks
+  - Chinese martial influence
+  - Local self-defense traditions
+  - Japanese annexation and modernization
+  notable_arts:
+  - Karate
+  - Okinawan kobudo
+  - Uechi-ryu
+  - Goju-ryu
+  - Shorin-ryu
+  organizational_characteristics:
+  - Kata preservation
+  - Small-group instruction
+  - Lineage-based schools
+  - Weapons traditions
+  modern_impact: Okinawa remains central to karate legitimacy, historical research, and lineage identity.
+  page_content:
+  - - Regional Context
+    - Okinawa’s martial culture reflects its position between local traditions, Chinese influence, and Japanese modernization. Karate’s later global growth often obscures its Okinawan roots.
+  - - Factbook Assessment
+    - Okinawa should be treated as a distinct martial region rather than merely a subsection of Japanese karate history.
+- slug: korea
+  name: Korea
+  martial_overview: Korea is strongly associated with Taekwondo, Hapkido, Tang Soo Do, and other modern martial systems shaped by postwar institutions, military training, and national identity.
+  historical_factors:
+  - Postwar reconstruction
+  - Kwan consolidation
+  - Military instruction
+  - National sport promotion
+  - International diplomacy
+  notable_arts:
+  - Taekwondo
+  - Hapkido
+  - Tang Soo Do
+  - Taekkyon
+  organizational_characteristics:
+  - Dojang culture
+  - Formal ranks
+  - Global federations
+  - Olympic structure
+  - Demonstration teams
+  modern_impact: Korean martial arts achieved major global reach, especially through Taekwondo’s Olympic status and youth training infrastructure.
+  page_content:
+  - - Regional Context
+    - Modern Korean martial arts developed through complex interactions between indigenous traditions, Japanese occupation-era influences, military systems, and postwar national promotion.
+  - - Factbook Assessment
+    - Korea’s martial arts influence is especially visible in kicking systems, Olympic sport organization, and the global spread of dojang-based instruction.
 - slug: thailand
   name: Thailand
-  martial_overview: >
-    Thailand is strongly associated with Muay Thai, one of the world's most recognized striking combat sports.
+  martial_overview: Thailand is globally associated with Muay Thai, a full-contact striking sport with deep cultural, military, ceremonial, and professional competition roots.
   historical_factors:
-    - Military combat traditions
-    - Regional fighting systems
-    - Stadium competition culture
+  - Military combat traditions
+  - Regional fighting systems
+  - Stadium competition
+  - Professional fight camps
+  - Cultural ceremony
   notable_arts:
-    - Muay Thai
-    - Krabi-Krabong
+  - Muay Thai
+  - Krabi-Krabong
+  - Muay Boran
   organizational_characteristics:
-    - Stadium rankings
-    - Professional fight circuits
-    - Ceremonial traditions
-  modern_impact: >
-    Muay Thai became foundational to global striking systems and mixed martial arts training.
-
+  - Fight camps
+  - Stadium rankings
+  - Wai Kru ceremony
+  - Professional circuits
+  - Gambling-linked fight culture
+  modern_impact: Muay Thai is a major foundation for global kickboxing, mixed martial arts striking, and combat sport conditioning.
+  page_content:
+  - - Regional Context
+    - Muay Thai exists as sport, cultural practice, profession, and national symbol. Its development cannot be separated from Thai stadium culture and fight camp systems.
+  - - Factbook Assessment
+    - Thailand’s martial impact is concentrated but profound. Muay Thai’s technical transferability has made it one of the world’s most influential striking arts.
 - slug: brazil
   name: Brazil
-  martial_overview: >
-    Brazil became a major center for grappling innovation and combat sports development through Brazilian Jiu-Jitsu and vale tudo competition culture.
+  martial_overview: Brazil is a major martial arts region through Brazilian Jiu-Jitsu, Capoeira, and vale tudo traditions that shaped modern grappling and mixed martial arts.
   historical_factors:
-    - Immigration influences
-    - Challenge matches
-    - Hybrid combat traditions
+  - Immigration influences
+  - African diaspora culture
+  - Challenge matches
+  - Vale tudo competition
+  - Academy team culture
   notable_arts:
-    - Brazilian Jiu-Jitsu
-    - Capoeira
-    - Vale Tudo
+  - Brazilian Jiu-Jitsu
+  - Capoeira
+  - Vale Tudo
+  - Luta Livre
   organizational_characteristics:
-    - Team-based academies
-    - Tournament circuits
-    - Open challenge culture
-  modern_impact: >
-    Brazilian martial arts strongly influenced modern submission grappling and mixed martial arts worldwide.
+  - Academy lineages
+  - Team affiliations
+  - Belt promotion culture
+  - Tournament circuits
+  - Challenge-match mythology
+  modern_impact: Brazil strongly influenced global submission grappling, early mixed martial arts, and the international spread of academy-based BJJ.
+  page_content:
+  - - Regional Context
+    - Brazil’s martial identity combines sport, performance, self-defense, cultural resistance, and hybrid competition. BJJ and Capoeira show very different paths to global recognition.
+  - - Factbook Assessment
+    - Brazil’s impact on modern martial arts is disproportionate because BJJ altered global assumptions about ground fighting and Capoeira preserved a unique martial-cultural form.
+- slug: china
+  name: China
+  martial_overview: China has a vast and diverse martial heritage often grouped under terms such as wushu or kung fu, covering armed and unarmed systems, performance, health practice, opera traditions, and combat methods.
+  historical_factors:
+  - Military traditions
+  - Temple and folk lineages
+  - Opera and performance culture
+  - Republican-era modernization
+  - State-supported wushu
+  notable_arts:
+  - Shaolinquan
+  - Taijiquan
+  - Wing Chun
+  - Hung Gar
+  - Sanda
+  organizational_characteristics:
+  - Lineage schools
+  - Forms practice
+  - Modern wushu federations
+  - Health-oriented practice
+  - Sanshou or sanda competition
+  modern_impact: Chinese martial arts influenced global popular culture, cinema, health practice, and striking systems, while also developing modern sport wushu and sanda.
+  page_content:
+  - - Regional Context
+    - Chinese martial arts are too diverse to describe as a single system. They include regional styles, family lineages, military methods, theatrical traditions, internal practices, and modern competitive formats.
+  - - Factbook Assessment
+    - China’s martial arts significance is cultural, technical, and historical. The challenge for reference work is avoiding overgeneralization while still mapping broad patterns.

@@ -2,187 +2,526 @@
   name: Karate
   type: Striking martial art
   origin: Okinawa, Japan
-  period: Formalized during the late 19th and early 20th centuries
+  period: Late 19th to early 20th century formalization
   classification: Traditional martial art and modern combat sport
-  primary_range: Striking
+  primary_range: Striking range
   major_focus:
-    - Punching
-    - Kicking
-    - Kata
-    - Blocking
-    - Timing
-    - Discipline
-  summary: >
-    Karate developed from Okinawan fighting systems influenced by local combat practices and Chinese martial traditions.
-    It was later introduced to mainland Japan and diversified into multiple schools and competitive systems.
+  - Punching
+  - Kicking
+  - Kata
+  - Blocking
+  - Footwork
+  - Distance management
+  summary: Karate developed from Okinawan fighting methods influenced by local traditions and Chinese martial practices. It later moved into mainland Japanese schools, universities, and public institutions, where it became more standardized and internationally exportable.
   technical_characteristics:
-    - Linear striking techniques
-    - Formalized kata
-    - Structured rank systems
-    - Emphasis on posture and distance management
+  - Linear hand strikes
+  - Front and round kicks
+  - Formal kata
+  - Kumite sparring
+  - Blocking and counter-striking
+  - Stance-based power generation
+  training_methods:
+  - Kihon basics
+  - Kata forms
+  - Kumite sparring
+  - Impact training
+  - Partner drills
+  - Rank examinations
   notable_styles:
-    - Shotokan
-    - Goju-ryu
-    - Shito-ryu
-    - Wado-ryu
-    - Kyokushin
+  - Shotokan
+  - Goju-ryu
+  - Shito-ryu
+  - Wado-ryu
+  - Kyokushin
+  - Uechi-ryu
   governing_bodies:
-    - World Karate Federation
-    - Japan Karate Association
+  - World Karate Federation
+  - Japan Karate Association
+  - Japan Karatedo Federation
   notable_people:
-    - Gichin Funakoshi
-    - Chojun Miyagi
-    - Mas Oyama
+  - Gichin Funakoshi
+  - Chojun Miyagi
+  - Kenwa Mabuni
+  - Hironori Otsuka
+  - Mas Oyama
   terminology:
-    - Kata
-    - Kumite
-    - Dojo
-    - Gi
-    - Sensei
-  global_presence: >
-    Karate is practiced globally in traditional, educational, recreational, and competitive contexts.
-    It became an Olympic sport for the Tokyo 2020 Games.
-  historical_notes: >
-    Okinawan karate evolved during periods where weapon restrictions encouraged development of empty-hand systems.
-    Later transmission to mainland Japan led to institutionalization in schools and universities.
+  - Kata
+  - Kumite
+  - Kihon
+  - Dojo
+  - Sensei
+  - Gi
+  - Dan
+  - Kyu
+  global_presence: Karate is practiced globally in traditional schools, sport federations, universities, community clubs, and self-defense programs. It appeared in the Tokyo 2020 Olympic Games.
+  historical_notes: Karate’s development reflects Okinawa’s position as a cultural crossroads and later Japan’s institutional modernization. The art’s transition from local practice to school-based education shaped its uniforms, ranks, terminology, and curricula.
   related_topics:
-    - Kata
-    - Belt ranking systems
-    - Olympic martial arts
-
+  - Kata
+  - Belt ranking systems
+  - Kumite
+  - Olympic martial arts
+  - Dojo etiquette
+  page_content:
+  - - Historical Development
+    - Karate emerged from Okinawan combat traditions often grouped under terms such as te and later karate. Its modern shape was influenced by public education, Japanese budo culture, and the need to teach large groups through standardized basics, kata, and rank structures.
+  - - Technical Profile
+    - Karate is usually identified with striking, but its historical kata also preserve close-range tactics, joint manipulation, throws, and body shifting. Modern training varies widely, from point sparring and kata competition to full-contact knockdown rules and self-defense applications.
+  - - Factbook Assessment
+    - Karate is best understood as a family of related systems rather than one uniform art. Its global identity is shaped by style, federation, ruleset, and whether a school emphasizes tradition, sport, self-defense, or physical education.
 - slug: judo
   name: Judo
   type: Grappling martial art and Olympic sport
   origin: Japan
   period: Founded in 1882
   classification: Modern Japanese budo and Olympic combat sport
-  primary_range: Clinch and grappling
+  primary_range: Clinch, throwing, pinning, and submission grappling
   major_focus:
-    - Throws
-    - Balance breaking
-    - Pins
-    - Submissions
-    - Physical education
-  summary: >
-    Judo was founded by Jigoro Kano from earlier jujutsu traditions.
-    It emphasizes efficient movement, leverage, safe training methods, and structured free practice.
+  - Throws
+  - Balance breaking
+  - Pins
+  - Chokes
+  - Joint locks
+  - Randori
+  summary: Judo was founded by Jigoro Kano from older jujutsu traditions. It emphasizes efficient movement, leverage, balance breaking, safe practice, and moral education.
   technical_characteristics:
-    - Throwing mechanics
-    - Kuzushi principles
-    - Randori training
-    - Structured pedagogy
+  - Kuzushi balance breaking
+  - Tachi-waza standing techniques
+  - Ne-waza groundwork
+  - Randori free practice
+  - Ukemi breakfalls
+  - Rules-based competition
+  training_methods:
+  - Uchikomi repetitions
+  - Nagekomi throwing practice
+  - Randori
+  - Kata
+  - Grip fighting
+  - Contest preparation
   notable_styles:
-    - Kodokan Judo
-    - Kosen Judo
+  - Kodokan Judo
+  - Kosen Judo
+  - Olympic Judo
   governing_bodies:
-    - International Judo Federation
-    - Kodokan
+  - Kodokan
+  - International Judo Federation
+  - All Japan Judo Federation
   notable_people:
-    - Jigoro Kano
-    - Kyuzo Mifune
-    - Yasuhiro Yamashita
+  - Jigoro Kano
+  - Kyuzo Mifune
+  - Yasuhiro Yamashita
+  - Anton Geesink
+  - Ronda Rousey
   terminology:
-    - Kuzushi
-    - Randori
-    - Ne-waza
-    - Tachi-waza
-  global_presence: >
-    Judo is practiced worldwide and is one of the most internationally organized martial arts.
-    It became an Olympic sport in 1964.
-  historical_notes: >
-    Kano modernized older jujutsu systems into a safer educational model.
-    Judo later influenced many modern grappling systems worldwide.
+  - Kuzushi
+  - Randori
+  - Ukemi
+  - Nage-waza
+  - Ne-waza
+  - Ippon
+  - Waza-ari
+  global_presence: Judo is one of the world’s most widely organized martial arts and has been an Olympic sport for men since 1964 and women since 1992.
+  historical_notes: Kano designed Judo as a modern educational system, not merely a fighting method. Its spread through schools, police training, universities, and international sport shaped global grappling practice.
   related_topics:
-    - Kuzushi
-    - Randori
-    - Olympic martial arts
-
+  - Kuzushi
+  - Randori
+  - Olympic martial arts
+  - Belt ranking systems
+  - Submission grappling
+  page_content:
+  - - Historical Development
+    - Judo was created during Japan’s modernization period, when older martial traditions were being reinterpreted for education, public health, and international exchange. Kano removed or controlled many dangerous techniques so students could train with resistance more safely.
+  - - Technical Profile
+    - Judo is built around throws, pins, chokes, and arm locks. Its technical engine is kuzushi, the disruption of balance before applying a throw. Modern sport rules influence tactics, especially gripping, posture, transition speed, and risk management.
+  - - Factbook Assessment
+    - Judo is a major bridge between traditional martial culture and modern international sport. Its methods influenced Brazilian Jiu-Jitsu, Sambo, mixed martial arts, police training, and many contemporary grappling programs.
 - slug: brazilian-jiu-jitsu
   name: Brazilian Jiu-Jitsu
-  type: Grappling martial art
+  type: Ground grappling martial art
   origin: Brazil
-  period: Developed during the 20th century
+  period: 20th century development
   classification: Submission grappling system and combat sport
-  primary_range: Ground fighting
+  primary_range: Ground fighting and close-range grappling
   major_focus:
-    - Positional control
-    - Chokes
-    - Joint locks
-    - Leverage
-    - Guard systems
-  summary: >
-    Brazilian Jiu-Jitsu developed from Judo and jujutsu influences and became known for leverage-focused ground fighting and submission techniques.
+  - Guard
+  - Mount
+  - Back control
+  - Chokes
+  - Joint locks
+  - Positional control
+  summary: Brazilian Jiu-Jitsu developed from Judo and jujutsu influences in Brazil. It is known for ground fighting, leverage, positional hierarchy, and submissions.
   technical_characteristics:
-    - Positional hierarchy
-    - Guard retention
-    - Submission chains
-    - Pressure passing
+  - Guard systems
+  - Passing
+  - Sweeps
+  - Escapes
+  - Submission chains
+  - Positional scoring
+  training_methods:
+  - Live rolling
+  - Positional sparring
+  - Technique drilling
+  - Submission defense
+  - Competition rounds
+  - No-gi training
   notable_styles:
-    - Gracie Jiu-Jitsu
-    - Sport Brazilian Jiu-Jitsu
-    - No-gi grappling
+  - Gracie Jiu-Jitsu
+  - Sport BJJ
+  - No-gi submission grappling
+  - Self-defense BJJ
   governing_bodies:
-    - International Brazilian Jiu-Jitsu Federation
-    - UAE Jiu-Jitsu Federation
+  - International Brazilian Jiu-Jitsu Federation
+  - Sport Jiu-Jitsu International Federation
+  - UAE Jiu-Jitsu Federation
   notable_people:
-    - Helio Gracie
-    - Carlos Gracie
-    - Mitsuyo Maeda
+  - Mitsuyo Maeda
+  - Carlos Gracie
+  - Helio Gracie
+  - Rickson Gracie
+  - Marcelo Garcia
   terminology:
-    - Guard
-    - Mount
-    - Side control
-    - Back control
-    - Submission
-  global_presence: >
-    Brazilian Jiu-Jitsu expanded rapidly through mixed martial arts, sport tournaments, and self-defense instruction.
-  historical_notes: >
-    Challenge matches and vale tudo events contributed significantly to the global visibility of Brazilian Jiu-Jitsu.
+  - Guard
+  - Sweep
+  - Pass
+  - Mount
+  - Back control
+  - Submission
+  - Tap
+  global_presence: Brazilian Jiu-Jitsu is practiced globally and has become a major foundation for mixed martial arts, self-defense instruction, and submission grappling competition.
+  historical_notes: Challenge matches, vale tudo events, and early mixed martial arts competitions were central to BJJ’s international visibility. Sport BJJ later developed its own complex competitive ecosystem.
   related_topics:
-    - Submission grappling
-    - Mixed martial arts
-    - Positional control
-
+  - Submission grappling
+  - Mixed martial arts
+  - Positional control
+  - Guard
+  - No-gi grappling
+  page_content:
+  - - Historical Development
+    - Brazilian Jiu-Jitsu emerged from Japanese grappling instruction in Brazil, especially through figures connected to Judo and jujutsu. Over time, Brazilian practitioners emphasized ground control, leverage, and submission strategy.
+  - - Technical Profile
+    - BJJ organizes ground fighting through positions such as guard, side control, mount, and back control. The art rewards positional advancement and submission threats while allowing smaller practitioners to use leverage against larger opponents.
+  - - Factbook Assessment
+    - Brazilian Jiu-Jitsu is one of the most influential modern martial arts because it changed how many schools evaluate ground fighting. Its influence is especially visible in mixed martial arts, police defensive tactics, and recreational adult martial arts training.
 - slug: muay-thai
   name: Muay Thai
   type: Striking combat sport
   origin: Thailand
-  period: Modernized during the 20th century from older Thai combat traditions
-  classification: Ring combat sport
-  primary_range: Striking and clinch
+  period: Modern ring form developed mainly during the 20th century
+  classification: Ring combat sport and national martial tradition
+  primary_range: Striking and clinch range
   major_focus:
-    - Punches
-    - Kicks
-    - Elbows
-    - Knees
-    - Clinch fighting
-  summary: >
-    Muay Thai is a Thai striking system known as the art of eight limbs due to its use of punches, kicks, elbows, and knees.
+  - Punches
+  - Kicks
+  - Elbows
+  - Knees
+  - Clinch control
+  - Conditioning
+  summary: Muay Thai is a Thai striking system known for using punches, kicks, elbows, knees, and clinch fighting. It is closely tied to Thai sporting culture and global kickboxing.
   technical_characteristics:
-    - Clinch control
-    - Conditioning
-    - Elbow striking
-    - Low kicks
+  - Low kicks
+  - Teep push kicks
+  - Elbow strikes
+  - Knee strikes
+  - Clinch off-balancing
+  - Round-based ring strategy
+  training_methods:
+  - Pad work
+  - Bag work
+  - Sparring
+  - Clinch rounds
+  - Roadwork
+  - Conditioning
   notable_styles:
-    - Traditional Muay Thai
-    - Stadium Muay Thai
+  - Stadium Muay Thai
+  - Traditional Muay Thai
+  - International Muay Thai
   governing_bodies:
-    - World Muaythai Council
-    - International Federation of Muaythai Associations
+  - International Federation of Muaythai Associations
+  - World Muaythai Council
   notable_people:
-    - Nai Khanom Tom
-    - Saenchai
-    - Buakaw Banchamek
+  - Nai Khanom Tom
+  - Samart Payakaroon
+  - Dieselnoi Chor Thanasukarn
+  - Saenchai
+  - Buakaw Banchamek
   terminology:
-    - Wai Kru
-    - Teep
-    - Clinch
-    - Roundhouse kick
-  global_presence: >
-    Muay Thai is practiced globally and strongly influences modern kickboxing and mixed martial arts striking.
-  historical_notes: >
-    Muay Thai evolved from military and regional fighting traditions before becoming a codified ring sport.
+  - Wai Kru
+  - Ram Muay
+  - Teep
+  - Clinch
+  - Sok
+  - Tee
+  - Khao
+  global_presence: Muay Thai is practiced worldwide and is one of the most important striking bases in mixed martial arts and kickboxing.
+  historical_notes: Muay Thai’s modern identity grew through Thai stadium competition, military and regional fighting traditions, gambling culture, and international combat sport exchange.
   related_topics:
-    - Clinch fighting
-    - Combat sports
-    - Striking systems
+  - Clinch fighting
+  - Combat sports
+  - Striking systems
+  - Kickboxing
+  - Conditioning
+  page_content:
+  - - Historical Development
+    - Muay Thai has roots in older Thai fighting practices, but its contemporary form is strongly connected to ring competition, timed rounds, gloves, stadium rankings, and professional fight camps.
+  - - Technical Profile
+    - Muay Thai is distinguished by its integration of elbows and knees with kicking, punching, and clinch control. The clinch is not merely a holding position, but an offensive range for knees, off-balancing, turns, and tactical scoring.
+  - - Factbook Assessment
+    - Muay Thai remains one of the most practical and transferable striking systems for combat sports because it trains full-contact timing, durable conditioning, and close-range striking under pressure.
+- slug: taekwondo
+  name: Taekwondo
+  type: Kicking-focused striking martial art
+  origin: Korea
+  period: Mid-20th century modern formation
+  classification: Traditional martial art and Olympic combat sport
+  primary_range: Long-range striking
+  major_focus:
+  - Kicking
+  - Footwork
+  - Forms
+  - Sparring
+  - Speed
+  - Flexibility
+  summary: Taekwondo is a Korean martial art known for dynamic kicking, athletic sparring, formal patterns, and global sport organization.
+  technical_characteristics:
+  - High kicks
+  - Spinning kicks
+  - Fast footwork
+  - Electronic scoring in sport
+  - Forms practice
+  - Board breaking
+  training_methods:
+  - Poomsae or patterns
+  - Kyorugi sparring
+  - Kicking drills
+  - Flexibility training
+  - Breaking demonstrations
+  - Rank testing
+  notable_styles:
+  - World Taekwondo
+  - International Taekwon-Do Federation
+  - Traditional kwan lineages
+  governing_bodies:
+  - World Taekwondo
+  - International Taekwon-Do Federation
+  - Kukkiwon
+  notable_people:
+  - Choi Hong Hi
+  - Nam Tae-hi
+  - Kim Un-yong
+  terminology:
+  - Dojang
+  - Poomsae
+  - Kyorugi
+  - Dobok
+  - Dan
+  - Gup
+  global_presence: Taekwondo is one of the world’s most widely practiced martial arts and has been an Olympic sport since 2000.
+  historical_notes: Taekwondo’s development is tied to postwar Korean identity, military training, school instruction, and international sport diplomacy.
+  related_topics:
+  - Olympic martial arts
+  - Forms
+  - Sport rulesets
+  - Belt ranking systems
+  page_content:
+  - - Historical Development
+    - Taekwondo developed in modern Korea through the consolidation and promotion of several kwan schools. Its international spread was shaped by state support, military instruction, and formal organizations.
+  - - Technical Profile
+    - Taekwondo is especially recognized for fast, high, and spinning kicks. Sport Taekwondo emphasizes distance, timing, and scoring, while traditional schools may also teach hand strikes, forms, self-defense, and breaking.
+  - - Factbook Assessment
+    - Taekwondo’s global reach is unusually broad because it functions simultaneously as a youth activity, Olympic sport, national cultural export, and martial discipline.
+- slug: aikido
+  name: Aikido
+  type: Japanese defensive martial art
+  origin: Japan
+  period: 20th century
+  classification: Modern Japanese budo
+  primary_range: Close range, joint control, and throwing
+  major_focus:
+  - Blending
+  - Redirection
+  - Joint locks
+  - Throws
+  - Ukemi
+  - Non-competitive training
+  summary: Aikido was founded by Morihei Ueshiba and emphasizes redirecting force, controlling balance, and resolving conflict through movement and technique.
+  technical_characteristics:
+  - Circular movement
+  - Wrist controls
+  - Joint locks
+  - Throws
+  - Weapon-informed body movement
+  - Ukemi practice
+  training_methods:
+  - Paired kata
+  - Ukemi
+  - Weapon forms
+  - Technique repetition
+  - Dojo etiquette
+  - Flow-based practice
+  notable_styles:
+  - Aikikai
+  - Yoshinkan
+  - Shodokan
+  - Iwama-style Aikido
+  governing_bodies:
+  - Aikikai Foundation
+  - International Aikido Federation
+  notable_people:
+  - Morihei Ueshiba
+  - Kisshomaru Ueshiba
+  - Gozo Shioda
+  - Kenji Tomiki
+  terminology:
+  - Aiki
+  - Nage
+  - Uke
+  - Ukemi
+  - Irimi
+  - Tenkan
+  global_presence: Aikido is practiced worldwide, often with emphasis on traditional dojo culture, movement principles, and non-competitive training.
+  historical_notes: Aikido developed from Daito-ryu Aiki-jujutsu influences and Ueshiba’s evolving spiritual and philosophical views.
+  related_topics:
+  - Budo philosophy
+  - Joint locks
+  - Ukemi
+  - Non-competitive martial arts
+  page_content:
+  - - Historical Development
+    - Aikido emerged in 20th-century Japan from older jujutsu influences and Morihei Ueshiba’s broader philosophical development. Its public identity became strongly associated with harmony, control, and ethical restraint.
+  - - Technical Profile
+    - Aikido techniques often use entering, turning, joint control, and throwing mechanics. Training depends heavily on cooperative structure, safe falling, and body movement rather than competitive sparring.
+  - - Factbook Assessment
+    - Aikido occupies a distinct place in martial arts because its purpose is not primarily competitive success. Its value is usually framed through movement study, discipline, tradition, and controlled response to aggression.
+- slug: boxing
+  name: Boxing
+  type: Punching combat sport
+  origin: Ancient roots; modern rules developed in Britain
+  period: Modern rules formalized in the 18th and 19th centuries
+  classification: Combat sport
+  primary_range: Punching range
+  major_focus:
+  - Punching
+  - Footwork
+  - Head movement
+  - Defense
+  - Ringcraft
+  - Conditioning
+  summary: Boxing is a combat sport focused on punches, footwork, timing, defense, and ring strategy. It has ancient roots and a highly developed modern professional and amateur structure.
+  technical_characteristics:
+  - Jab-cross combinations
+  - Hooks and uppercuts
+  - Defensive slips
+  - Footwork angles
+  - Ring positioning
+  - Round management
+  training_methods:
+  - Shadowboxing
+  - Pad work
+  - Bag work
+  - Sparring
+  - Roadwork
+  - Technical drills
+  notable_styles:
+  - Amateur boxing
+  - Professional boxing
+  - Out-boxing
+  - Pressure fighting
+  - Counterpunching
+  governing_bodies:
+  - International Boxing Association
+  - World Boxing Council
+  - World Boxing Association
+  - International Boxing Federation
+  - World Boxing Organization
+  notable_people:
+  - Jack Johnson
+  - Joe Louis
+  - Muhammad Ali
+  - Sugar Ray Robinson
+  - Mike Tyson
+  terminology:
+  - Jab
+  - Cross
+  - Hook
+  - Uppercut
+  - Clinch
+  - Knockdown
+  - Decision
+  global_presence: Boxing has global professional, amateur, and Olympic structures and remains one of the most commercially visible combat sports.
+  historical_notes: Modern boxing evolved through rule changes that standardized gloves, rounds, fouls, and weight classes. Prizefighting shaped both sporting culture and broader social history.
+  related_topics:
+  - Prizefighting
+  - Footwork
+  - Combat sports
+  - Olympic martial arts
+  page_content:
+  - - Historical Development
+    - Although forms of fist fighting are ancient, modern boxing is strongly associated with British prizefighting, the Queensberry rules, weight classes, and later international amateur and professional organizations.
+  - - Technical Profile
+    - Boxing’s restricted toolset produces deep specialization. Footwork, rhythm, feints, guard positions, counters, and range control become highly refined because only punches are allowed.
+  - - Factbook Assessment
+    - Boxing is one of the most transferable striking systems for combat sports because it develops timing, distance, defensive awareness, and pressure-tested punching mechanics.
+- slug: wrestling
+  name: Wrestling
+  type: Grappling sport
+  origin: Global ancient origins
+  period: Ancient to modern sport forms
+  classification: Traditional grappling family and Olympic combat sport
+  primary_range: Standing grappling and ground control
+  major_focus:
+  - Takedowns
+  - Pins
+  - Control
+  - Scrambles
+  - Rides
+  - Conditioning
+  summary: Wrestling is one of the oldest documented combat practices, with many regional forms and modern Olympic styles. It emphasizes takedowns, positional control, balance, and physical pressure.
+  technical_characteristics:
+  - Level changes
+  - Shots
+  - Throws
+  - Pins
+  - Mat control
+  - Scrambling
+  training_methods:
+  - Live wrestling
+  - Takedown drills
+  - Chain wrestling
+  - Conditioning
+  - Partner resistance
+  - Match simulation
+  notable_styles:
+  - Freestyle wrestling
+  - Greco-Roman wrestling
+  - Folkstyle wrestling
+  - Catch wrestling
+  - Sumo
+  - Traditional folk wrestling
+  governing_bodies:
+  - United World Wrestling
+  - National wrestling federations
+  notable_people:
+  - Milo of Croton
+  - Aleksandr Karelin
+  - Dan Gable
+  - Kaori Icho
+  terminology:
+  - Takedown
+  - Pin
+  - Sprawl
+  - Ride
+  - Escape
+  - Reversal
+  global_presence: Wrestling exists in Olympic, school, collegiate, professional entertainment, and traditional folk forms across many regions.
+  historical_notes: Wrestling appears in ancient art, literature, and athletic traditions. Its simplicity and adaptability helped it survive across cultures and rule systems.
+  related_topics:
+  - Takedowns
+  - Olympic martial arts
+  - Folk wrestling
+  - Grappling
+  page_content:
+  - - Historical Development
+    - Wrestling has no single origin point. It appears across ancient civilizations and continues through local folk styles, military training, school sport, Olympic competition, and professionalized entertainment forms.
+  - - Technical Profile
+    - Wrestling emphasizes control without necessarily relying on submissions. Depending on ruleset, success may come from takedowns, exposure, pins, escapes, reversals, or controlling an opponent’s body position.
+  - - Factbook Assessment
+    - Wrestling is a foundational grappling discipline because it teaches pressure, balance, takedown entries, defensive reactions, and physical resilience across many combat contexts.
