@@ -1,73 +1,70 @@
-- slug: jigoro-kano
-  name: Jigoro Kano
-  lifespan: 1860–1938
-  associated_art: Judo
-  region: Japan
-  role: Founder of Judo
-  summary: Jigoro Kano founded Judo in 1882 and developed it as a system of physical
-    education, moral development, and safe martial training.
-  known_for:
-  - Kodokan Judo
-  - Maximum efficiency
-  - Mutual welfare and benefit
 - slug: gichin-funakoshi
   name: Gichin Funakoshi
   lifespan: 1868–1957
+  nationality: Japanese
   associated_art: Karate
-  region: Okinawa and Japan
-  role: Key figure in popularizing karate in mainland Japan
-  summary: Gichin Funakoshi helped introduce Okinawan karate to mainland Japan and
-    became associated with the Shotokan tradition.
+  role: Educator and martial arts instructor
   known_for:
-  - Shotokan karate
-  - Karate education
-  - Kata transmission
-- slug: morihei-ueshiba
-  name: Morihei Ueshiba
-  lifespan: 1883–1969
-  associated_art: Aikido
-  region: Japan
-  role: Founder of Aikido
-  summary: Morihei Ueshiba developed Aikido as a martial discipline emphasizing redirection,
-    harmony, and control of aggression.
+    - Introducing karate to mainland Japan
+    - Foundational influence on Shotokan karate
+    - Karate pedagogy
+  biography: >
+    Gichin Funakoshi is widely regarded as one of the most influential figures in modern karate history.
+    He helped systematize Okinawan karate for educational institutions and university clubs in Japan.
+  historical_significance: >
+    Funakoshi's efforts transformed karate from a regional Okinawan practice into an internationally recognized martial art.
+  organizations:
+    - Shotokan karate organizations
+  publications:
+    - Karate-Do: My Way of Life
+  influence:
+    - University karate clubs
+    - Modern karate curriculum
+    - International karate expansion
+
+- slug: jigoro-kano
+  name: Jigoro Kano
+  lifespan: 1860–1938
+  nationality: Japanese
+  associated_art: Judo
+  role: Founder of Judo
   known_for:
-  - Aikido
-  - Budo philosophy
-  - Defensive redirection
+    - Kodokan Judo
+    - Educational philosophy
+    - Modernization of jujutsu
+  biography: >
+    Jigoro Kano founded Judo in 1882 and integrated martial training with physical education and moral development.
+  historical_significance: >
+    Kano established one of the first globally organized martial arts systems and helped position Judo as an international sport.
+  organizations:
+    - Kodokan
+    - International Olympic movement
+  publications:
+    - Educational writings on Judo
+  influence:
+    - Olympic combat sports
+    - Modern martial arts pedagogy
+    - Grappling systems worldwide
+
 - slug: bruce-lee
   name: Bruce Lee
   lifespan: 1940–1973
+  nationality: Chinese-American
   associated_art: Jeet Kune Do
-  region: Hong Kong and United States
-  role: Martial artist, actor, and founder of Jeet Kune Do
-  summary: Bruce Lee became one of the most influential martial artists of the 20th
-    century, known for challenging rigid systems and promoting practical, adaptive
-    training.
+  role: Martial artist, actor, and philosopher
   known_for:
-  - Jeet Kune Do
-  - Martial arts cinema
-  - Cross-training philosophy
-- slug: helio-gracie
-  name: Helio Gracie
-  lifespan: 1913–2009
-  associated_art: Brazilian Jiu-Jitsu
-  region: Brazil
-  role: Major figure in the development of Brazilian Jiu-Jitsu
-  summary: Helio Gracie helped shape Brazilian Jiu-Jitsu into a leverage-focused grappling
-    system associated with challenge matches, self-defense, and sport development.
-  known_for:
-  - Brazilian Jiu-Jitsu
-  - Gracie family lineage
-  - Ground fighting
-- slug: mitsuyo-maeda
-  name: Mitsuyo Maeda
-  lifespan: 1878–1941
-  associated_art: Judo and jujutsu
-  region: Japan, Brazil, and international travels
-  role: Japanese martial artist who influenced Brazilian grappling traditions
-  summary: Mitsuyo Maeda was a Japanese judoka and prizefighter whose teaching in
-    Brazil influenced the development of Brazilian Jiu-Jitsu.
-  known_for:
-  - Judo
-  - International challenge matches
-  - Influence on Brazilian Jiu-Jitsu
+    - Jeet Kune Do
+    - Martial arts cinema
+    - Cross-training philosophy
+  biography: >
+    Bruce Lee became one of the most recognizable martial artists in modern history through film, teaching, and martial arts philosophy.
+  historical_significance: >
+    Lee challenged rigid stylistic boundaries and promoted adaptability, realism, and efficiency in martial arts training.
+  organizations:
+    - Jun Fan Gung Fu Institute
+  publications:
+    - Tao of Jeet Kune Do
+  influence:
+    - Mixed martial arts concepts
+    - Martial arts media
+    - Cross-disciplinary combat training

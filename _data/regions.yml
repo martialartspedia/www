@@ -1,62 +1,60 @@
 - slug: japan
   name: Japan
-  martial_context: Japan has produced several globally influential martial arts, including
-    Judo, Karate’s mainland development, Aikido, Kendo, and modern budo systems.
+  martial_overview: >
+    Japan is one of the most influential centers of modern martial arts development.
+    It produced globally recognized systems such as Judo, Aikido, Kendo, and several major karate traditions.
+  historical_factors:
+    - Samurai military traditions
+    - Meiji-era modernization
+    - Educational institutionalization
+    - Olympic sport development
   notable_arts:
-  - Judo
-  - Karate
-  - Aikido
-  - Kendo
-  - Jujutsu
-  themes:
-  - Budo philosophy
-  - Dojo culture
-  - Modern sport development
-  - Rank systems
-- slug: okinawa
-  name: Okinawa
-  martial_context: Okinawa is central to karate history. Its fighting traditions developed
-    through local practice, regional exchange, and later transmission to mainland
-    Japan.
-  notable_arts:
-  - Karate
-  - Okinawan kobudo
-  themes:
-  - Kata preservation
-  - Chinese influence
-  - Local fighting traditions
-- slug: korea
-  name: Korea
-  martial_context: Korea is associated with modern Taekwondo and other martial traditions
-    that combine sport, national identity, military training, and formalized pedagogy.
-  notable_arts:
-  - Taekwondo
-  - Hapkido
-  - Tang Soo Do
-  themes:
-  - Kicking systems
-  - Sport development
-  - National martial identity
+    - Judo
+    - Karate
+    - Aikido
+    - Kendo
+    - Jujutsu
+  organizational_characteristics:
+    - Structured rank systems
+    - Dojo culture
+    - National federations
+    - International governing bodies
+  modern_impact: >
+    Japanese martial arts heavily influenced global martial arts education, sport organization, ranking systems, and training terminology.
+
 - slug: thailand
   name: Thailand
-  martial_context: Thailand is closely associated with Muay Thai, a striking combat
-    sport with deep cultural traditions and a major influence on global stand-up fighting.
+  martial_overview: >
+    Thailand is strongly associated with Muay Thai, one of the world's most recognized striking combat sports.
+  historical_factors:
+    - Military combat traditions
+    - Regional fighting systems
+    - Stadium competition culture
   notable_arts:
-  - Muay Thai
-  - Krabi-Krabong
-  themes:
-  - Ring sport
-  - Clinch striking
-  - Cultural ceremony
+    - Muay Thai
+    - Krabi-Krabong
+  organizational_characteristics:
+    - Stadium rankings
+    - Professional fight circuits
+    - Ceremonial traditions
+  modern_impact: >
+    Muay Thai became foundational to global striking systems and mixed martial arts training.
+
 - slug: brazil
   name: Brazil
-  martial_context: Brazil contributed Brazilian Jiu-Jitsu, Capoeira, and influential
-    combat sport cultures that shaped modern grappling and mixed martial arts.
+  martial_overview: >
+    Brazil became a major center for grappling innovation and combat sports development through Brazilian Jiu-Jitsu and vale tudo competition culture.
+  historical_factors:
+    - Immigration influences
+    - Challenge matches
+    - Hybrid combat traditions
   notable_arts:
-  - Brazilian Jiu-Jitsu
-  - Capoeira
-  - Vale Tudo
-  themes:
-  - Ground fighting
-  - Challenge matches
-  - Hybrid combat
+    - Brazilian Jiu-Jitsu
+    - Capoeira
+    - Vale Tudo
+  organizational_characteristics:
+    - Team-based academies
+    - Tournament circuits
+    - Open challenge culture
+  modern_impact: >
+    Brazilian martial arts strongly influenced modern submission grappling and mixed martial arts worldwide.

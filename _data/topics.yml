@@ -1,62 +1,49 @@
 - slug: kata
   name: Kata
-  category: Training method
-  summary: Kata are formal sequences used to preserve techniques, principles, rhythm,
-    posture, and combative ideas within many traditional martial arts.
-  appears_in:
-  - Karate
-  - Judo
-  - Aikido
-  - Taekwondo
-- slug: randori
-  name: Randori
-  category: Training method
-  summary: Randori refers to free practice, especially in Judo, where practitioners
-    test timing, balance, resistance, and technique in a controlled training environment.
-  appears_in:
-  - Judo
-  - Aikido
+  category: Training methodology
+  summary: >
+    Kata are formalized sequences used to preserve techniques, timing, movement principles, and tactical concepts within many martial arts.
+  functions:
+    - Technical preservation
+    - Solo training
+    - Rhythm and coordination
+    - Historical transmission
+  associated_arts:
+    - Karate
+    - Taekwondo
+    - Aikido
+  historical_context: >
+    Kata became especially important in systems where structured transmission and pedagogy were central to preserving techniques across generations.
+
 - slug: kuzushi
   name: Kuzushi
-  category: Principle
-  summary: Kuzushi means breaking an opponent’s balance. It is central to throwing
-    arts because effective throws often depend on structure, timing, and direction
-    rather than strength alone.
-  appears_in:
-  - Judo
-  - Aikido
-  - Jujutsu
+  category: Grappling principle
+  summary: >
+    Kuzushi refers to breaking an opponent's balance before executing a throw or takedown.
+  functions:
+    - Throw preparation
+    - Balance manipulation
+    - Timing control
+  associated_arts:
+    - Judo
+    - Aikido
+    - Jujutsu
+  historical_context: >
+    Kuzushi became foundational within Japanese grappling systems because leverage and timing often proved more effective than strength alone.
+
 - slug: belt-ranking-systems
   name: Belt Ranking Systems
-  category: Organization and pedagogy
-  summary: Belt ranking systems are used by many modern martial arts to structure
-    learning, recognize progression, and organize instruction. Their meaning varies
-    widely across styles and schools.
-  appears_in:
-  - Judo
-  - Karate
-  - Taekwondo
-  - Brazilian Jiu-Jitsu
-- slug: clinch-fighting
-  name: Clinch Fighting
-  category: Combat range
-  summary: Clinch fighting involves close-range control, balance manipulation, knees,
-    elbows, trips, and positional dominance. It appears in both striking and grappling
-    systems.
-  appears_in:
-  - Muay Thai
-  - Wrestling
-  - Judo
-  - Mixed Martial Arts
-- slug: mixed-martial-arts
-  name: Mixed Martial Arts
-  category: Modern combat sport
-  summary: Mixed Martial Arts combines striking, grappling, clinch work, submissions,
-    and competitive rulesets. It changed how many practitioners evaluate martial systems
-    across ranges.
-  appears_in:
-  - Brazilian Jiu-Jitsu
-  - Wrestling
-  - Boxing
-  - Muay Thai
-  - Judo
+  category: Organizational structure
+  summary: >
+    Belt ranking systems are used by many martial arts to structure progression, teaching, and evaluation.
+  functions:
+    - Student progression
+    - Instructional hierarchy
+    - Curriculum organization
+  associated_arts:
+    - Judo
+    - Karate
+    - Taekwondo
+    - Brazilian Jiu-Jitsu
+  historical_context: >
+    Colored ranking systems became widely associated with Judo and later spread to many other martial arts worldwide.
