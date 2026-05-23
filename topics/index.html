@@ -1,0 +1,21 @@
+---
+layout: default
+title: Topics
+description: A concept index for martial arts methods, principles, training structures, and rulesets.
+---
+
+<section class="hero compact card">
+  <p class="eyebrow">Directory</p>
+  <h1>Topics</h1>
+  <p class="lede">A concept index for martial arts methods, principles, training structures, and rulesets.</p>
+</section>
+
+<section class="directory-grid">
+{% for item in site.data.topics %}
+<a class="directory-card card searchable" href="{{ '/topics/' | append: item.slug | append: '/' | relative_url }}" data-search="{{ item.name }} {{ item.category }} {{ item.summary }}">
+  <p class="eyebrow">{{ item.category }}</p>
+  <h2>{{ item.name }}</h2>
+  <p>{{ item.summary }}</p>
+</a>
+{% endfor %}
+</section>

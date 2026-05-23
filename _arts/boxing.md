@@ -1,29 +1,25 @@
 ---
-title: Boxing
-type_label: Martial art
-last_edited: Feb 2026
-evidence: 80
-tags: [striking, footwork, competition, conditioning]
-hatnote: This archive separates documented evidence from community claims. When uncertain, it labels uncertainty.
-lede: "**Boxing** is documented here with a preservation-first approach: definitions, terminology, context, and sources."
-infobox_sub: "Combat sport"
-focus: "Punching, footwork"
-era: "Modern"
-toc: false
+title: "Boxing"
+type: "Striking combat sport"
+origin: "Ancient roots, modern rules developed in Britain"
+period: "Modern rules formalized in the 18th and 19th centuries"
+range: "Punching range"
+focus:
+  - "Punching"
+  - "Footwork"
+  - "Head movement"
+  - "Conditioning"
+summary: "Boxing is a combat sport focused on punches, footwork, timing, defense, and ring strategy. Its modern rules influenced many competitive fighting systems."
+related_people:
+  - "Jack Johnson"
+  - "Muhammad Ali"
+related_topics:
+  - "Prizefighting"
+  - "Footwork"
+  - "Combat sports"
+status: "A global sport and major influence on modern striking training."
 ---
 
-## Overview
+## Editorial note
 
-Write a neutral summary grounded in sources.
-
-## Terminology
-
-Capture terminology used in primary sources and common translations.
-
-## Training culture
-
-Document training norms and incentives without prescribing technique.
-
-## Sources
-
-Add references and timestamped media notes.
+This entry is designed as a concise factbook profile. It can be expanded with lineage notes, terminology, rule variations, major organizations, and source citations.

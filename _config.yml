@@ -1,29 +1,44 @@
 title: MartialArtsPedia
-description: A preservation-first martial arts reference library.
+description: A structured reference site for martial arts knowledge, history, systems, people, and traditions.
 url: ""
 baseurl: ""
-
-markdown: kramdown
+timezone: America/Toronto
 
 collections:
   arts:
     output: true
-    permalink: /arts/:slug/
-  topics:
-    output: true
-    permalink: /topics/:slug/
+    permalink: /arts/:name/
   people:
     output: true
-    permalink: /people/:slug/
-  sources:
+    permalink: /people/:name/
+  topics:
     output: true
-    permalink: /sources/:slug/
+    permalink: /topics/:name/
+  regions:
+    output: true
+    permalink: /regions/:name/
 
 defaults:
   - scope:
       path: ""
+      type: arts
     values:
-      layout: page
-      toc: true
-      show_references: true
-      evidence: 0
+      layout: art
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: person
+  - scope:
+      path: ""
+      type: topics
+    values:
+      layout: topic
+  - scope:
+      path: ""
+      type: regions
+    values:
+      layout: region
+
+markdown: kramdown
+plugins: []

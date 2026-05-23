@@ -1,0 +1,175 @@
+- slug: karate
+  name: Karate
+  type: Striking art
+  origin: Okinawa, Japan
+  period: 19th to early 20th century codification
+  range: Primarily striking
+  focus:
+  - Punching
+  - Kicking
+  - Kata
+  - Self-discipline
+  summary: Karate developed from Okinawan fighting practices and was later formalized
+    in mainland Japan. It is known for linear strikes, kata practice, structured ranks,
+    and a strong emphasis on discipline and personal development.
+  related_people:
+  - Gichin Funakoshi
+  - Chojun Miyagi
+  - Mas Oyama
+  related_topics:
+  - Kata
+  - Dojo etiquette
+  - Belt ranking systems
+  status: Widely practiced globally as both a traditional martial art and competitive
+    sport.
+- slug: judo
+  name: Judo
+  type: Grappling art and Olympic sport
+  origin: Japan
+  period: Founded in 1882
+  range: Throws, pins, submissions
+  focus:
+  - Throws
+  - Grappling
+  - Balance breaking
+  - Physical education
+  summary: Judo was founded by Jigoro Kano from older jujutsu systems. It emphasizes
+    maximum efficiency, mutual benefit, safe training methods, throws, pins, and submissions.
+  related_people:
+  - Jigoro Kano
+  related_topics:
+  - Randori
+  - Kuzushi
+  - Olympic martial arts
+  status: An Olympic sport and one of the most influential modern grappling systems.
+- slug: taekwondo
+  name: Taekwondo
+  type: Kicking-focused striking art
+  origin: Korea
+  period: Modern development in the mid-20th century
+  range: Primarily long-range striking
+  focus:
+  - Kicking
+  - Sport sparring
+  - Forms
+  - Athletic movement
+  summary: Taekwondo is a Korean martial art known for dynamic kicking techniques,
+    structured forms, and global sport competition. It has both traditional and Olympic
+    sport branches.
+  related_people:
+  - Choi Hong Hi
+  related_topics:
+  - Olympic martial arts
+  - Forms
+  - Sport rulesets
+  status: One of the most practiced martial arts worldwide.
+- slug: muay-thai
+  name: Muay Thai
+  type: Striking combat sport
+  origin: Thailand
+  period: Modern ring sport developed from older Thai fighting traditions
+  range: Punches, kicks, elbows, knees, clinch
+  focus:
+  - Elbows
+  - Knees
+  - Clinch fighting
+  - Conditioning
+  summary: Muay Thai is a Thai striking system known as the art of eight limbs. It
+    combines punches, kicks, elbows, knees, and clinch work in a demanding competitive
+    format.
+  related_people:
+  - Nai Khanom Tom
+  related_topics:
+  - Clinch fighting
+  - Combat sports
+  - Striking systems
+  status: A major global combat sport and foundation for many mixed martial arts striking
+    programs.
+- slug: brazilian-jiu-jitsu
+  name: Brazilian Jiu-Jitsu
+  type: Ground grappling art
+  origin: Brazil
+  period: 20th century development from Judo and jujutsu influences
+  range: Ground control and submissions
+  focus:
+  - Guard
+  - Mount
+  - Back control
+  - Chokes
+  - Joint locks
+  summary: Brazilian Jiu-Jitsu focuses on ground fighting, positional control, leverage,
+    and submissions. It grew from Judo-related grappling methods and became globally
+    influential through sport competition and mixed martial arts.
+  related_people:
+  - Helio Gracie
+  - Carlos Gracie
+  - Mitsuyo Maeda
+  related_topics:
+  - Submission grappling
+  - Mixed martial arts
+  - Positional control
+  status: Widely practiced as a sport, self-defense system, and MMA foundation.
+- slug: aikido
+  name: Aikido
+  type: Japanese defensive martial art
+  origin: Japan
+  period: 20th century
+  range: Throws, joint controls, redirection
+  focus:
+  - Blending
+  - Joint locks
+  - Throws
+  - Non-competitive practice
+  summary: Aikido was founded by Morihei Ueshiba and emphasizes redirecting force,
+    controlling balance, and resolving conflict through movement and technique rather
+    than direct collision.
+  related_people:
+  - Morihei Ueshiba
+  related_topics:
+  - Budo philosophy
+  - Joint locks
+  - Non-competitive martial arts
+  status: Practiced globally as a traditional martial art with philosophical and defensive
+    emphasis.
+- slug: boxing
+  name: Boxing
+  type: Striking combat sport
+  origin: Ancient roots, modern rules developed in Britain
+  period: Modern rules formalized in the 18th and 19th centuries
+  range: Punching range
+  focus:
+  - Punching
+  - Footwork
+  - Head movement
+  - Conditioning
+  summary: Boxing is a combat sport focused on punches, footwork, timing, defense,
+    and ring strategy. Its modern rules influenced many competitive fighting systems.
+  related_people:
+  - Jack Johnson
+  - Muhammad Ali
+  related_topics:
+  - Prizefighting
+  - Footwork
+  - Combat sports
+  status: A global sport and major influence on modern striking training.
+- slug: wrestling
+  name: Wrestling
+  type: Grappling sport
+  origin: Global ancient origins
+  period: Ancient to modern sport forms
+  range: Standing and ground grappling
+  focus:
+  - Takedowns
+  - Control
+  - Pins
+  - Conditioning
+  summary: Wrestling is one of the oldest documented combat practices, with many regional
+    forms and modern Olympic styles. It emphasizes takedowns, control, balance, and
+    physical pressure.
+  related_people:
+  - Milo of Croton
+  related_topics:
+  - Olympic martial arts
+  - Takedowns
+  - Folk wrestling
+  status: Practiced worldwide in sport, traditional, and self-defense contexts.

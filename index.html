@@ -1,0 +1,80 @@
+---
+layout: default
+title: Home
+description: MartialArtsPedia is a structured martial arts reference site covering arts, people, topics, regions, and historical context.
+---
+
+<section class="hero card">
+  <p class="eyebrow">Martial Arts Factbook</p>
+  <h1>A structured reference for martial arts knowledge and history.</h1>
+  <p class="lede">
+    MartialArtsPedia organizes martial arts as a knowledge system: arts, people, concepts, places, timelines, and training methods.
+    It is designed less like a landing page and more like a living reference archive.
+  </p>
+</section>
+
+<section class="dashboard-grid">
+  <a class="metric card" href="{{ '/arts/' | relative_url }}">
+    <span>{{ site.data.arts | size }}</span>
+    <strong>Arts</strong>
+    <p>Profiles by origin, type, range, focus, period, and status.</p>
+  </a>
+
+  <a class="metric card" href="{{ '/people/' | relative_url }}">
+    <span>{{ site.data.people | size }}</span>
+    <strong>People</strong>
+    <p>Founders, teachers, athletes, and influential figures.</p>
+  </a>
+
+  <a class="metric card" href="{{ '/topics/' | relative_url }}">
+    <span>{{ site.data.topics | size }}</span>
+    <strong>Topics</strong>
+    <p>Training concepts, methods, rulesets, and principles.</p>
+  </a>
+
+  <a class="metric card" href="{{ '/regions/' | relative_url }}">
+    <span>{{ site.data.regions | size }}</span>
+    <strong>Regions</strong>
+    <p>Regional martial contexts and historical clusters.</p>
+  </a>
+</section>
+
+<section class="card">
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">Featured Arts</p>
+      <h2>Martial systems index</h2>
+    </div>
+    <a href="{{ '/arts/' | relative_url }}">View all</a>
+  </div>
+
+  <div class="record-list">
+    {% for art in site.data.arts limit: 5 %}
+    <a class="record-row searchable" href="{{ '/arts/' | append: art.slug | append: '/' | relative_url }}" data-search="{{ art.name }} {{ art.type }} {{ art.origin }}">
+      <div>
+        <h3>{{ art.name }}</h3>
+        <p>{{ art.summary }}</p>
+      </div>
+      <span>{{ art.type }}</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="card">
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">Timeline</p>
+      <h2>Selected historical anchors</h2>
+    </div>
+  </div>
+
+  <ol class="timeline">
+    {% for item in site.data.timeline %}
+    <li>
+      <strong>{{ item.date }}</strong>
+      <p>{{ item.event }}</p>
+    </li>
+    {% endfor %}
+  </ol>
+</section>

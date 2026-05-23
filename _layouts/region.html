@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article class="record-page card">
+  <p class="eyebrow">Regional Profile</p>
+  <h1>{{ page.title }}</h1>
+  <p class="lede">{{ page.martial_context }}</p>
+
+  <section>
+    <h2>Notable Arts</h2>
+    <div class="pill-row">
+      {% for item in page.notable_arts %}<span>{{ item }}</span>{% endfor %}
+    </div>
+  </section>
+
+  <section>
+    <h2>Key Themes</h2>
+    <div class="pill-row">
+      {% for item in page.themes %}<span>{{ item }}</span>{% endfor %}
+    </div>
+  </section>
+
+  {{ content }}
+</article>

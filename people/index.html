@@ -1,0 +1,25 @@
+---
+layout: default
+title: People
+description: A biographical index of founders, teachers, athletes, and influential martial arts figures.
+---
+
+<section class="hero compact card">
+  <p class="eyebrow">Directory</p>
+  <h1>People</h1>
+  <p class="lede">A biographical index of founders, teachers, athletes, and influential martial arts figures.</p>
+</section>
+
+<section class="directory-grid">
+{% for item in site.data.people %}
+<a class="directory-card card searchable" href="{{ '/people/' | append: item.slug | append: '/' | relative_url }}" data-search="{{ item.name }} {{ item.associated_art }} {{ item.region }} {{ item.role }}">
+  <p class="eyebrow">{{ item.associated_art }}</p>
+  <h2>{{ item.name }}</h2>
+  <p>{{ item.summary }}</p>
+  <dl>
+    <div><dt>Lifespan</dt><dd>{{ item.lifespan }}</dd></div>
+    <div><dt>Role</dt><dd>{{ item.role }}</dd></div>
+  </dl>
+</a>
+{% endfor %}
+</section>

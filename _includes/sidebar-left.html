@@ -1,0 +1,16 @@
+<aside class="rail left-rail">
+  <section class="card identity-card">
+    <div class="mark">MAP</div>
+    <h2>Martial Arts Knowledge</h2>
+    <p>A structured archive of martial arts systems, people, regions, concepts, and historical context.</p>
+  </section>
+
+  <section class="card">
+    <h3>Arts Index</h3>
+    <ul class="rail-list">
+      {% for art in site.data.arts limit: 8 %}
+      <li><a href="{{ '/arts/' | append: art.slug | append: '/' | relative_url }}">{{ art.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+</aside>

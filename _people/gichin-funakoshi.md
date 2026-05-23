@@ -1,20 +1,16 @@
 ---
-title: Gichin Funakoshi
-type_label: Person
-last_edited: Feb 2026
-evidence: 56
-tags: [japan, history, forms, lineage]
-lede: A reference entry for **Gichin Funakoshi**, focusing on verifiable biographical facts and source-backed context.
-infobox_sub: "Person · Japan"
-focus: "Shotokan founder"
-era: "20th century"
-toc: false
+title: "Gichin Funakoshi"
+lifespan: "1868–1957"
+associated_art: "Karate"
+region: "Okinawa and Japan"
+role: "Key figure in popularizing karate in mainland Japan"
+summary: "Gichin Funakoshi helped introduce Okinawan karate to mainland Japan and became associated with the Shotokan tradition."
+known_for:
+  - "Shotokan karate"
+  - "Karate education"
+  - "Kata transmission"
 ---
 
-## Overview
+## Editorial note
 
-Document verifiable biographical details and cite primary or reputable secondary sources.
-
-## Attribution notes
-
-If claims are contested, label uncertainty and list competing sources.
+This person profile can be expanded with chronology, primary sources, historical debates, and influence mapping.

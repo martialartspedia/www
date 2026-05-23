@@ -1,0 +1,26 @@
+---
+layout: default
+title: Sources
+description: Source notes for MartialArtsPedia.
+---
+
+<section class="hero compact card">
+  <p class="eyebrow">Reference</p>
+  <h1>Sources and editorial notes</h1>
+  <p class="lede">MartialArtsPedia uses concise source notes and normalized profiles. Entries should be expanded carefully over time with reliable books, official organizations, academic work, and historical references.</p>
+</section>
+
+<section class="card">
+  <h2>Starter source list</h2>
+  <div class="record-list">
+    {% for source in site.data.sources %}
+    <a class="record-row" href="{{ source.url }}">
+      <div>
+        <h3>{{ source.title }}</h3>
+        <p>{{ source.note }}</p>
+      </div>
+      <span>External</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>

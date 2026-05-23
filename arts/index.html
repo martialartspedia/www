@@ -1,0 +1,25 @@
+---
+layout: default
+title: Arts
+description: A normalized reference index of martial arts systems, including origin, type, range, focus, and historical status.
+---
+
+<section class="hero compact card">
+  <p class="eyebrow">Directory</p>
+  <h1>Arts</h1>
+  <p class="lede">A normalized reference index of martial arts systems, including origin, type, range, focus, and historical status.</p>
+</section>
+
+<section class="directory-grid">
+{% for item in site.data.arts %}
+<a class="directory-card card searchable" href="{{ '/arts/' | append: item.slug | append: '/' | relative_url }}" data-search="{{ item.name }} {{ item.type }} {{ item.origin }} {{ item.summary }}">
+  <p class="eyebrow">{{ item.type }}</p>
+  <h2>{{ item.name }}</h2>
+  <p>{{ item.summary }}</p>
+  <dl>
+    <div><dt>Origin</dt><dd>{{ item.origin }}</dd></div>
+    <div><dt>Period</dt><dd>{{ item.period }}</dd></div>
+  </dl>
+</a>
+{% endfor %}
+</section>

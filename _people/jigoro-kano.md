@@ -1,20 +1,16 @@
 ---
-title: Jigoro Kano
-type_label: Person
-last_edited: Feb 2026
-evidence: 68
-tags: [japan, history, lineage]
-lede: A reference entry for **Jigoro Kano**, focusing on verifiable biographical facts and source-backed context.
-infobox_sub: "Person · Japan"
-focus: "Founder, educator"
-era: "1882 onward"
-toc: false
+title: "Jigoro Kano"
+lifespan: "1860–1938"
+associated_art: "Judo"
+region: "Japan"
+role: "Founder of Judo"
+summary: "Jigoro Kano founded Judo in 1882 and developed it as a system of physical education, moral development, and safe martial training."
+known_for:
+  - "Kodokan Judo"
+  - "Maximum efficiency"
+  - "Mutual welfare and benefit"
 ---
 
-## Overview
+## Editorial note
 
-Document verifiable biographical details and cite primary or reputable secondary sources.
-
-## Attribution notes
-
-If claims are contested, label uncertainty and list competing sources.
+This person profile can be expanded with chronology, primary sources, historical debates, and influence mapping.

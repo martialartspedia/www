@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article class="record-page card">
+  <p class="eyebrow">Person Profile</p>
+  <h1>{{ page.title }}</h1>
+  <p class="lede">{{ page.summary }}</p>
+
+  <section class="fact-grid">
+    <div><span>Lifespan</span><strong>{{ page.lifespan }}</strong></div>
+    <div><span>Associated Art</span><strong>{{ page.associated_art }}</strong></div>
+    <div><span>Region</span><strong>{{ page.region }}</strong></div>
+    <div><span>Role</span><strong>{{ page.role }}</strong></div>
+  </section>
+
+  <section>
+    <h2>Known For</h2>
+    <div class="pill-row">
+      {% for item in page.known_for %}<span>{{ item }}</span>{% endfor %}
+    </div>
+  </section>
+
+  {{ content }}
+</article>

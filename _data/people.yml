@@ -1,0 +1,73 @@
+- slug: jigoro-kano
+  name: Jigoro Kano
+  lifespan: 1860–1938
+  associated_art: Judo
+  region: Japan
+  role: Founder of Judo
+  summary: Jigoro Kano founded Judo in 1882 and developed it as a system of physical
+    education, moral development, and safe martial training.
+  known_for:
+  - Kodokan Judo
+  - Maximum efficiency
+  - Mutual welfare and benefit
+- slug: gichin-funakoshi
+  name: Gichin Funakoshi
+  lifespan: 1868–1957
+  associated_art: Karate
+  region: Okinawa and Japan
+  role: Key figure in popularizing karate in mainland Japan
+  summary: Gichin Funakoshi helped introduce Okinawan karate to mainland Japan and
+    became associated with the Shotokan tradition.
+  known_for:
+  - Shotokan karate
+  - Karate education
+  - Kata transmission
+- slug: morihei-ueshiba
+  name: Morihei Ueshiba
+  lifespan: 1883–1969
+  associated_art: Aikido
+  region: Japan
+  role: Founder of Aikido
+  summary: Morihei Ueshiba developed Aikido as a martial discipline emphasizing redirection,
+    harmony, and control of aggression.
+  known_for:
+  - Aikido
+  - Budo philosophy
+  - Defensive redirection
+- slug: bruce-lee
+  name: Bruce Lee
+  lifespan: 1940–1973
+  associated_art: Jeet Kune Do
+  region: Hong Kong and United States
+  role: Martial artist, actor, and founder of Jeet Kune Do
+  summary: Bruce Lee became one of the most influential martial artists of the 20th
+    century, known for challenging rigid systems and promoting practical, adaptive
+    training.
+  known_for:
+  - Jeet Kune Do
+  - Martial arts cinema
+  - Cross-training philosophy
+- slug: helio-gracie
+  name: Helio Gracie
+  lifespan: 1913–2009
+  associated_art: Brazilian Jiu-Jitsu
+  region: Brazil
+  role: Major figure in the development of Brazilian Jiu-Jitsu
+  summary: Helio Gracie helped shape Brazilian Jiu-Jitsu into a leverage-focused grappling
+    system associated with challenge matches, self-defense, and sport development.
+  known_for:
+  - Brazilian Jiu-Jitsu
+  - Gracie family lineage
+  - Ground fighting
+- slug: mitsuyo-maeda
+  name: Mitsuyo Maeda
+  lifespan: 1878–1941
+  associated_art: Judo and jujutsu
+  region: Japan, Brazil, and international travels
+  role: Japanese martial artist who influenced Brazilian grappling traditions
+  summary: Mitsuyo Maeda was a Japanese judoka and prizefighter whose teaching in
+    Brazil influenced the development of Brazilian Jiu-Jitsu.
+  known_for:
+  - Judo
+  - International challenge matches
+  - Influence on Brazilian Jiu-Jitsu

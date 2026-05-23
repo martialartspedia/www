@@ -1,20 +1,16 @@
 ---
-title: Morihei Ueshiba
-type_label: Person
-last_edited: Feb 2026
-evidence: 58
-tags: [japan, philosophy, lineage]
-lede: A reference entry for **Morihei Ueshiba**, focusing on verifiable biographical facts and source-backed context.
-infobox_sub: "Person · Japan"
-focus: "Aikido founder"
-era: "20th century"
-toc: false
+title: "Morihei Ueshiba"
+lifespan: "1883–1969"
+associated_art: "Aikido"
+region: "Japan"
+role: "Founder of Aikido"
+summary: "Morihei Ueshiba developed Aikido as a martial discipline emphasizing redirection, harmony, and control of aggression."
+known_for:
+  - "Aikido"
+  - "Budo philosophy"
+  - "Defensive redirection"
 ---
 
-## Overview
+## Editorial note
 
-Document verifiable biographical details and cite primary or reputable secondary sources.
-
-## Attribution notes
-
-If claims are contested, label uncertainty and list competing sources.
+This person profile can be expanded with chronology, primary sources, historical debates, and influence mapping.

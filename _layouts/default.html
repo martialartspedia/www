@@ -1,30 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.description | escape }}" />
-  <link rel="stylesheet" href="{{ '/assets/wiki.css' | relative_url }}">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 </head>
 <body>
-  <div class="app" id="app">
-    {% include topbar.html %}
+  {% include header.html %}
 
-    <div class="layout">
-      {% include nav.html %}
-      <main class="main">
-        {{ content }}
-      </main>
-    </div>
+  <div class="site-layout">
+    {% include sidebar-left.html %}
 
-    {% include footer.html %}
-    {% include search_modal.html %}
+    <main class="content">
+      {{ content }}
+    </main>
+
+    {% include sidebar-right.html %}
   </div>
 
-  <script>
-    window.MAP_SEARCH_INDEX_URL = "{{ '/search.json' | relative_url }}";
-  </script>
-  <script src="{{ '/assets/wiki.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
 </body>
 </html>

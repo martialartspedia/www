@@ -1,20 +1,16 @@
 ---
-title: Helio Gracie
-type_label: Person
-last_edited: Feb 2026
-evidence: 65
-tags: [brazil, lineage, grappling]
-lede: A reference entry for **Helio Gracie**, focusing on verifiable biographical facts and source-backed context.
-infobox_sub: "Person · Brazil"
-focus: "BJJ lineage figure"
-era: "20th century"
-toc: false
+title: "Helio Gracie"
+lifespan: "1913–2009"
+associated_art: "Brazilian Jiu-Jitsu"
+region: "Brazil"
+role: "Major figure in the development of Brazilian Jiu-Jitsu"
+summary: "Helio Gracie helped shape Brazilian Jiu-Jitsu into a leverage-focused grappling system associated with challenge matches, self-defense, and sport development."
+known_for:
+  - "Brazilian Jiu-Jitsu"
+  - "Gracie family lineage"
+  - "Ground fighting"
 ---
 
-## Overview
+## Editorial note
 
-Document verifiable biographical details and cite primary or reputable secondary sources.
-
-## Attribution notes
-
-If claims are contested, label uncertainty and list competing sources.
+This person profile can be expanded with chronology, primary sources, historical debates, and influence mapping.

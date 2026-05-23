@@ -1,29 +1,24 @@
 ---
-title: Taekwondo
-type_label: Martial art
-last_edited: Feb 2026
-evidence: 77
-tags: [korea, striking, competition, forms]
-hatnote: This archive separates documented evidence from community claims. When uncertain, it labels uncertainty.
-lede: "**Taekwondo** is documented here with a preservation-first approach: definitions, terminology, context, and sources."
-infobox_sub: "Martial art · Korea"
-focus: "Kicks, sport rules"
-era: "Modern"
-toc: false
+title: "Taekwondo"
+type: "Kicking-focused striking art"
+origin: "Korea"
+period: "Modern development in the mid-20th century"
+range: "Primarily long-range striking"
+focus:
+  - "Kicking"
+  - "Sport sparring"
+  - "Forms"
+  - "Athletic movement"
+summary: "Taekwondo is a Korean martial art known for dynamic kicking techniques, structured forms, and global sport competition. It has both traditional and Olympic sport branches."
+related_people:
+  - "Choi Hong Hi"
+related_topics:
+  - "Olympic martial arts"
+  - "Forms"
+  - "Sport rulesets"
+status: "One of the most practiced martial arts worldwide."
 ---
 
-## Overview
+## Editorial note
 
-Write a neutral summary grounded in sources.
-
-## Terminology
-
-Capture terminology used in primary sources and common translations.
-
-## Training culture
-
-Document training norms and incentives without prescribing technique.
-
-## Sources
-
-Add references and timestamped media notes.
+This entry is designed as a concise factbook profile. It can be expanded with lineage notes, terminology, rule variations, major organizations, and source citations.

@@ -1,29 +1,27 @@
 ---
-title: Brazilian Jiu-Jitsu
-type_label: Martial art
-last_edited: Feb 2026
-evidence: 83
-tags: [grappling, brazil, competition, lineage]
-hatnote: This archive separates documented evidence from community claims. When uncertain, it labels uncertainty.
-lede: "**Brazilian Jiu-Jitsu** is documented here with a preservation-first approach: definitions, terminology, context, and sources."
-infobox_sub: "Martial art · Brazil"
-focus: "Grappling, submissions"
-era: "Modern"
-toc: false
+title: "Brazilian Jiu-Jitsu"
+type: "Ground grappling art"
+origin: "Brazil"
+period: "20th century development from Judo and jujutsu influences"
+range: "Ground control and submissions"
+focus:
+  - "Guard"
+  - "Mount"
+  - "Back control"
+  - "Chokes"
+  - "Joint locks"
+summary: "Brazilian Jiu-Jitsu focuses on ground fighting, positional control, leverage, and submissions. It grew from Judo-related grappling methods and became globally influential through sport competition and mixed martial arts."
+related_people:
+  - "Helio Gracie"
+  - "Carlos Gracie"
+  - "Mitsuyo Maeda"
+related_topics:
+  - "Submission grappling"
+  - "Mixed martial arts"
+  - "Positional control"
+status: "Widely practiced as a sport, self-defense system, and MMA foundation."
 ---
 
-## Overview
+## Editorial note
 
-Write a neutral summary grounded in sources.
-
-## Terminology
-
-Capture terminology used in primary sources and common translations.
-
-## Training culture
-
-Document training norms and incentives without prescribing technique.
-
-## Sources
-
-Add references and timestamped media notes.
+This entry is designed as a concise factbook profile. It can be expanded with lineage notes, terminology, rule variations, major organizations, and source citations.

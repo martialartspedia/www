@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<article class="record-page card">
+  <p class="eyebrow">Martial Art Profile</p>
+  <h1>{{ page.title }}</h1>
+  <p class="lede">{{ page.summary }}</p>
+
+  <section class="fact-grid">
+    <div><span>Origin</span><strong>{{ page.origin }}</strong></div>
+    <div><span>Type</span><strong>{{ page.type }}</strong></div>
+    <div><span>Period</span><strong>{{ page.period }}</strong></div>
+    <div><span>Primary Range</span><strong>{{ page.range }}</strong></div>
+  </section>
+
+  <section>
+    <h2>Core Focus</h2>
+    <div class="pill-row">
+      {% for item in page.focus %}<span>{{ item }}</span>{% endfor %}
+    </div>
+  </section>
+
+  <section>
+    <h2>Status</h2>
+    <p>{{ page.status }}</p>
+  </section>
+
+  <section>
+    <h2>Related People</h2>
+    <div class="link-list">
+      {% for person in page.related_people %}<span>{{ person }}</span>{% endfor %}
+    </div>
+  </section>
+
+  <section>
+    <h2>Related Topics</h2>
+    <div class="link-list">
+      {% for topic in page.related_topics %}<span>{{ topic }}</span>{% endfor %}
+    </div>
+  </section>
+
+  {{ content }}
+</article>

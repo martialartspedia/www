@@ -1,0 +1,21 @@
+---
+layout: default
+title: Regions
+description: A regional context index showing where martial traditions developed and how they relate historically.
+---
+
+<section class="hero compact card">
+  <p class="eyebrow">Directory</p>
+  <h1>Regions</h1>
+  <p class="lede">A regional context index showing where martial traditions developed and how they relate historically.</p>
+</section>
+
+<section class="directory-grid">
+{% for item in site.data.regions %}
+<a class="directory-card card searchable" href="{{ '/regions/' | append: item.slug | append: '/' | relative_url }}" data-search="{{ item.name }} {{ item.martial_context }} {{ item.notable_arts | join: ' ' }}">
+  <p class="eyebrow">Regional Profile</p>
+  <h2>{{ item.name }}</h2>
+  <p>{{ item.martial_context }}</p>
+</a>
+{% endfor %}
+</section>
