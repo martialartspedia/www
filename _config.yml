@@ -1,6 +1,6 @@
 title: MartialArtsPedia
 description: A structured reference site for martial arts knowledge, history, systems, people, and traditions.
-url: ""
+url: "https://martialartspedia.com"
 baseurl: ""
 timezone: America/Toronto
 
@@ -41,4 +41,6 @@ defaults:
       layout: region
 
 markdown: kramdown
-plugins: []
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
